@@ -537,3 +537,33 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 
 #EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld.kr" group-title="Korea",176 KBS World
 http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="General",Arirang HD 1
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="General",Arirang HD 2
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="General",Arirang HD 3
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="General",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="" group-title="General",Arirang Radio 1
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="" group-title="General",Arirang Radio 2
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="" group-title="General",Arirang Radio 3
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="General",BBS Buddhist Broadcasting 1
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="General",BBS Buddhist Broadcasting 2
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="General",Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
